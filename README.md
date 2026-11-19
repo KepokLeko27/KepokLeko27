@@ -3,7 +3,8 @@
 <h1 align="center">ABOUT ME</h1>
 
 <h3 align="center">
-  The Devil Is Not Actually From Hell, But Is Among Us
+  The Devil Is Not Actually From Hell
+But Is Among Us
 </h3>
 
 <p align="center">
