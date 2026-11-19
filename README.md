@@ -1,5 +1,4 @@
 
-<h1 align="center">ABOUT ME</h1>
 
 <h3 align="center">
   The devil is Not actually from hell
