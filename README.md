@@ -1,21 +1,25 @@
 
-
 <h1 align="center">ABOUT ME</h1>
 
 <h3 align="center">
-  The Devil Is Not Actually From Hell
-But Is Among Us
+  The devil is Not actually from hell
+ but is among us
 </h3>
 
 <p align="center">
   <a href="https://github.com/KepokLeko27">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.icons8.com/fluency/96/github.png" width="75" />
   </a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/adam-afiq-05b9611a1/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.icons8.com/fluency/96/linkedin.png" width="75" />
   </a>
-  <img src="https://img.shields.io/badge/Discord-kepokleko__27-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  &nbsp;
+  <a href="https://discord.com/users/">
+    <img src="https://img.icons8.com/fluency/96/discord-logo.png" width="75" />
+  </a>
+  &nbsp;
   <a href="mailto:adamafiq834@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.icons8.com/fluency/96/gmail.png" width="75" />
   </a>
 </p>
